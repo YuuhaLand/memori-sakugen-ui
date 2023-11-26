@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "UIパフォーマンス改善",
+    "description": "UIでのメモリ使用量を抑え、パフォーマンスを改善します\nby YuuhaLand",
+    "uuid": "674e3f28-8110-44e0-85ed-3116d3f689d2",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "cbb2794c-297b-4896-a0b9-835f5f58b1cb",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "namespace": "common",
+
+  "base_screen": {
+    "low_frequency_rendering": true
+  }
+}
